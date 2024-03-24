@@ -15,3 +15,20 @@ C:\Users\79065\Desktop\C# progs\first laba\obj\Debug\net6.0-windows\refint\first
 C:\Users\79065\Desktop\C# progs\first laba\obj\Debug\net6.0-windows\first laba.pdb
 C:\Users\79065\Desktop\C# progs\first laba\obj\Debug\net6.0-windows\first laba.genruntimeconfig.cache
 C:\Users\79065\Desktop\C# progs\first laba\obj\Debug\net6.0-windows\ref\first laba.dll
+C:\Users\Shcololo\Desktop\progs\making-forms\bin\Debug\net6.0-windows\first laba.exe
+C:\Users\Shcololo\Desktop\progs\making-forms\bin\Debug\net6.0-windows\first laba.deps.json
+C:\Users\Shcololo\Desktop\progs\making-forms\bin\Debug\net6.0-windows\first laba.runtimeconfig.json
+C:\Users\Shcololo\Desktop\progs\making-forms\bin\Debug\net6.0-windows\first laba.dll
+C:\Users\Shcololo\Desktop\progs\making-forms\bin\Debug\net6.0-windows\first laba.pdb
+C:\Users\Shcololo\Desktop\progs\making-forms\obj\Debug\net6.0-windows\first_laba.Form1.resources
+C:\Users\Shcololo\Desktop\progs\making-forms\obj\Debug\net6.0-windows\first laba.csproj.GenerateResource.cache
+C:\Users\Shcololo\Desktop\progs\making-forms\obj\Debug\net6.0-windows\first laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shcololo\Desktop\progs\making-forms\obj\Debug\net6.0-windows\first laba.AssemblyInfoInputs.cache
+C:\Users\Shcololo\Desktop\progs\making-forms\obj\Debug\net6.0-windows\first laba.AssemblyInfo.cs
+C:\Users\Shcololo\Desktop\progs\making-forms\obj\Debug\net6.0-windows\first laba.csproj.CoreCompileInputs.cache
+C:\Users\Shcololo\Desktop\progs\making-forms\obj\Debug\net6.0-windows\first laba.sourcelink.json
+C:\Users\Shcololo\Desktop\progs\making-forms\obj\Debug\net6.0-windows\first laba.dll
+C:\Users\Shcololo\Desktop\progs\making-forms\obj\Debug\net6.0-windows\refint\first laba.dll
+C:\Users\Shcololo\Desktop\progs\making-forms\obj\Debug\net6.0-windows\first laba.pdb
+C:\Users\Shcololo\Desktop\progs\making-forms\obj\Debug\net6.0-windows\first laba.genruntimeconfig.cache
+C:\Users\Shcololo\Desktop\progs\making-forms\obj\Debug\net6.0-windows\ref\first laba.dll
