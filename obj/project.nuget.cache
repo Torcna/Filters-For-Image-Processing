@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YumXaJhLjPIn1h+NfYiix0pj4Uk39PEvdbjbc+wxl1gQ7vjsZZYo8harbO8FJ3QthHAKglj6dppwl5FkCYPeng==",
+  "dgSpecHash": "gTPL4cWzrDw6tTff75f61wnzqkpTpbRjCkY3JEiAl4VZ5DEbh6F/2k5hcNTciCmPJ2SIKF31HQlQi1DB+Z04qw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shcololo\\Desktop\\progs\\making-forms\\first laba.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Shcololo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\Shcololo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\Shcololo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\Shcololo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\79065\\Desktop\\C# progs\\making-forms\\first laba.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

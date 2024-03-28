@@ -1,0 +1,17 @@
+C:\Users\79065\Desktop\C# progs\making-forms\bin\Release\net6.0-windows\first laba.exe
+C:\Users\79065\Desktop\C# progs\making-forms\bin\Release\net6.0-windows\first laba.deps.json
+C:\Users\79065\Desktop\C# progs\making-forms\bin\Release\net6.0-windows\first laba.runtimeconfig.json
+C:\Users\79065\Desktop\C# progs\making-forms\bin\Release\net6.0-windows\first laba.dll
+C:\Users\79065\Desktop\C# progs\making-forms\bin\Release\net6.0-windows\first laba.pdb
+C:\Users\79065\Desktop\C# progs\making-forms\obj\Release\net6.0-windows\first laba.csproj.AssemblyReference.cache
+C:\Users\79065\Desktop\C# progs\making-forms\obj\Release\net6.0-windows\first_laba.Form1.resources
+C:\Users\79065\Desktop\C# progs\making-forms\obj\Release\net6.0-windows\first laba.csproj.GenerateResource.cache
+C:\Users\79065\Desktop\C# progs\making-forms\obj\Release\net6.0-windows\first laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79065\Desktop\C# progs\making-forms\obj\Release\net6.0-windows\first laba.AssemblyInfoInputs.cache
+C:\Users\79065\Desktop\C# progs\making-forms\obj\Release\net6.0-windows\first laba.AssemblyInfo.cs
+C:\Users\79065\Desktop\C# progs\making-forms\obj\Release\net6.0-windows\first laba.csproj.CoreCompileInputs.cache
+C:\Users\79065\Desktop\C# progs\making-forms\obj\Release\net6.0-windows\first laba.dll
+C:\Users\79065\Desktop\C# progs\making-forms\obj\Release\net6.0-windows\refint\first laba.dll
+C:\Users\79065\Desktop\C# progs\making-forms\obj\Release\net6.0-windows\first laba.pdb
+C:\Users\79065\Desktop\C# progs\making-forms\obj\Release\net6.0-windows\first laba.genruntimeconfig.cache
+C:\Users\79065\Desktop\C# progs\making-forms\obj\Release\net6.0-windows\ref\first laba.dll

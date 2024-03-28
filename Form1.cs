@@ -1,3 +1,5 @@
+using System.ComponentModel;
+
 namespace first_laba
 {
 	public partial class Form1 : Form
@@ -8,10 +10,10 @@ namespace first_laba
 			InitializeComponent();
 		}
 
-		private void Form1_Load(object sender, EventArgs e)
-		{
+		//private void Form1_Load(object sender, EventArgs e)
+		//{
 
-		}
+		//}
 
 		private void îòðûòüToolStripMenuItem_Click(object sender, EventArgs e)
 		{
@@ -97,19 +99,33 @@ namespace first_laba
 		private void ouvreToolStripMenuItem_Click(object sender, EventArgs e)
 		{
 			svertka svertka = new svertka();
+			backgroundWorker1.RunWorkerAsync(svertka);
 			Spot_light spot_Light1 = new Spot_light();
+			backgroundWorker1.RunWorkerAsync(spot_Light1);
+
 			Spot_light spot_Light2 = new Spot_light();
+
+			backgroundWorker1.RunWorkerAsync(spot_Light2);
 			Spot_light spot_Light3 = new Spot_light();
+			backgroundWorker1.RunWorkerAsync(spot_Light3);
 			Spot_light spot_Light4 = new Spot_light();
+			backgroundWorker1.RunWorkerAsync(spot_Light4);
 			Spot_light spot_Light5 = new Spot_light();
+			backgroundWorker1.RunWorkerAsync(spot_Light5);
 			Gray_filter filter = new Gray_filter();
 			backgroundWorker1.RunWorkerAsync(filter);
 		}
 
 		private void motionblurToolStripMenuItem_Click(object sender, EventArgs e)
 		{
-			motionblur filter = new motionblur();
+            motionblur filter = new motionblur();
 			backgroundWorker1.RunWorkerAsync(filter);
+		}
+
+		private void grayWorldToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+			gray_world g = new gray_world();
+			backgroundWorker1.RunWorkerAsync(g);
 		}
 	}
 }
